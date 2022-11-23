@@ -1,0 +1,39 @@
+div#contenedor-principal{
+    width: 80%;
+    border: solid 0.5px;
+    background-color:rgb(247, 182, 158);
+    margin-left: 10%;
+    padding: 2%;
+}
+.productos{
+    background-color: bisque;
+    border: solid 1px;
+    border-radius: 14px;
+}
+.imagenes-sec-1{
+    padding-top: 5%;
+    box-sizing: border-box;
+}
+ul#lista-nav{
+    display: inline-block;
+}
+.titulos-h1-header{
+    text-align: center;
+}
+.obj-lista-nav{
+    text-align: center;
+}
+.texto-info{
+    display: flex;
+    text-align: center;
+}
+.article-texto-info{
+    border: solid 0.5px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding: 0.5%;
+    border-collapse: separate;
+}
+footer{
+    text-align: center;
+}
